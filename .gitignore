@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# Pytest cache
+.pytest_cache/
+
+# Generated package metadata
+*.egg-info/
+
+# Generated application logs
+logs/*.log

@@ -1,0 +1,151 @@
+[
+    {
+        "id": 101,
+        "title": "Login issue",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 102,
+        "title": "Email notification issue",
+        "priority": "Medium",
+        "status": "In Progress"
+    },
+    {
+        "id": 103,
+        "title": "Password reset not working",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 104,
+        "title": "Dashboard loading slowly",
+        "priority": "Low",
+        "status": "In Progress"
+    },
+    {
+        "id": 105,
+        "title": "Unable to download invoice",
+        "priority": "Medium",
+        "status": "Resolved"
+    },
+    {
+        "id": 106,
+        "title": "Payment transaction failed",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 107,
+        "title": "Profile picture not updating",
+        "priority": "Low",
+        "status": "Resolved"
+    },
+    {
+        "id": 108,
+        "title": "Application crashes during login",
+        "priority": "High",
+        "status": "In Progress"
+    },
+    {
+        "id": 109,
+        "title": "Search functionality not responding",
+        "priority": "Medium",
+        "status": "Open"
+    },
+    {
+        "id": 110,
+        "title": "Unable to update account details",
+        "priority": "Low",
+        "status": "Resolved"
+    },
+    {
+        "id": 111,
+        "title": "Database connection timeout",
+        "priority": "Urgent",
+        "status": "Open"
+    },
+    {
+        "id": 112,
+        "title": "File upload failed",
+        "priority": "Medium",
+        "status": "Pending"
+    },
+    {
+        "id": 113,
+        "title": "Session expires unexpectedly",
+        "priority": "High",
+        "status": "In Progress"
+    },
+    {
+        "id": 114,
+        "title": "Notification settings not saving",
+        "priority": "Low",
+        "status": "Open"
+    },
+    {
+        "id": 115,
+        "title": "API response taking too long",
+        "priority": "High",
+        "status": "Resolved"
+    },
+    {
+        "id": 116,
+        "title": "Export report feature broken",
+        "priority": "Medium"
+    },
+    {
+        "id": 117,
+        "title": "Unable to access admin panel",
+        "priority": "Critical",
+        "status": "Open"
+    },
+    {
+        "id": 118,
+        "title": "Mobile layout is broken",
+        "priority": "Low",
+        "status": "In Progress"
+    },
+    {
+        "id": 119,
+        "title": "Incorrect billing amount displayed",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 120,
+        "title": "Report generation failed",
+        "priority": "Medium",
+        "status": "Closed"
+    },
+    {
+        "id": 121,
+        "title": "Duplicate ticket ID test",
+        "priority": "High",
+        "status": "Open"
+    },
+    {
+        "id": 121,
+        "title": "Another ticket with duplicate ID",
+        "priority": "Medium",
+        "status": "In Progress"
+    },
+    {
+        "id": 123,
+        "title": "AB",
+        "priority": "Low",
+        "status": "Open"
+    },
+    {
+        "id": 124,
+        "title": "Invalid ticket priority",
+        "priority": "Urgent",
+        "status": "Open"
+    },
+    {
+        "id": -125,
+        "title": "Negative ticket ID",
+        "priority": "Medium",
+        "status": "Open"
+    }
+]
